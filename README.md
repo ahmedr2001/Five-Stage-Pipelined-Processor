@@ -1,5 +1,10 @@
 # Pipeline Processor
 here's the vhdl implementation of pipelined Processor that will compete ⚔️  intel and ARM (also MIPS)
+## Schematic Diagram
+[Click Here for the full schematic](https://lucid.app/lucidspark/c1d96700-4420-4aa2-81e4-5814dc24e98e/edit?viewport_loc=-244%2C-261%2C2953%2C1352%2C0_0&invitationId=inv_9f3e5e75-09c7-4697-879d-114e82b9816f)  
+
+![image](https://github.com/ahmedr2001/Five-Stage-Pipelined-Processor/assets/77215230/99dec976-8018-4b76-8943-580397ef92c0)
+
 ## ISA
 
 ### 🤔 Instruction Categories
